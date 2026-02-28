@@ -1,0 +1,7 @@
+Package: turka-wine
+Version: 1.0.0
+Architecture: all
+Maintainer: Mobilturka
+Depends: python3, python3-gi, libadwaita-1-0, gir1.2-adw-1, gir1.2-gtk-4.0
+Description: Debian/Pardus için Wine yönetim ve kurulum aracı.
+ Wine ve Winetricks kurulumlarını kolaylaştıran grafik arayüz.
